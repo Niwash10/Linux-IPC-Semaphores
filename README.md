@@ -149,10 +149,10 @@ int main()
 ## OUTPUT
 
 $ ./sem.o 
-![Alt text](../img5/1.png)
+![Alt text](img5/1.png)
 
 $ ipcs
-![Alt text](../img5/2.png)
+![Alt text](img5/2.png)
 
 
 
